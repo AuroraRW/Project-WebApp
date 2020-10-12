@@ -7,8 +7,10 @@
 - Create header and footer partials
 - Add Bootstrap
 - Setup new campsite POST route
-
-
+- embedding data and referencing data
+- / means root folder, ./ means current directory, ../ means go up one directory
+- passport: authentication
+- session: keep login
 
 # Mongodb 
 - brew tap mongodb/brew   
